@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "da6eaeb020eaabc093a2",
+    "revision": "d1f01a71bb49fa3995da",
     "url": "/static/css/main.348ca6a0.chunk.css"
   },
   {
-    "revision": "da6eaeb020eaabc093a2",
-    "url": "/static/js/main.da6eaeb0.chunk.js"
+    "revision": "d1f01a71bb49fa3995da",
+    "url": "/static/js/main.d1f01a71.chunk.js"
   },
   {
     "revision": "32bdabd93356632b821b",
@@ -88,8 +88,20 @@ self.__precacheManifest = [
     "url": "/static/media/6.47789d67.jpeg"
   },
   {
+    "revision": "a82c4c3bfe6cd8a9d57597071772d0c7",
+    "url": "/static/media/Kanit-Regular.a82c4c3b.ttf"
+  },
+  {
+    "revision": "9bec958d1bdbaf4f03bdf23557b4122f",
+    "url": "/static/media/K2D-Regular.9bec958d.ttf"
+  },
+  {
     "revision": "2d36b1a925432bae7f3c53a340868c6e",
     "url": "/static/media/Lato-Regular.2d36b1a9.ttf"
+  },
+  {
+    "revision": "16b4ce72cf30da14d83d5e3981d3113c",
+    "url": "/static/media/Prompt-Regular.16b4ce72.ttf"
   },
   {
     "revision": "f69fdd6858deaa1e307594ad974d3979",
@@ -100,23 +112,11 @@ self.__precacheManifest = [
     "url": "/static/media/Sarabun-Regular.49d082d0.ttf"
   },
   {
-    "revision": "a82c4c3bfe6cd8a9d57597071772d0c7",
-    "url": "/static/media/Kanit-Regular.a82c4c3b.ttf"
-  },
-  {
-    "revision": "9bec958d1bdbaf4f03bdf23557b4122f",
-    "url": "/static/media/K2D-Regular.9bec958d.ttf"
-  },
-  {
-    "revision": "16b4ce72cf30da14d83d5e3981d3113c",
-    "url": "/static/media/Prompt-Regular.16b4ce72.ttf"
-  },
-  {
     "revision": "81b5837e530ab2ad3dfe555368f77336",
     "url": "/static/media/background.81b5837e.png"
   },
   {
-    "revision": "fcdce74298b4a1b0474b200606b7c848",
+    "revision": "7812d750e4ae3ce4241de79b2be2a138",
     "url": "/index.html"
   }
 ];
