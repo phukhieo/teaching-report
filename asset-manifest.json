@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.348ca6a0.chunk.css",
-  "main.js": "/static/js/main.40641549.chunk.js",
-  "main.js.map": "/static/js/main.40641549.chunk.js.map",
+  "main.js": "/static/js/main.2bc6ef6d.chunk.js",
+  "main.js.map": "/static/js/main.2bc6ef6d.chunk.js.map",
   "static/css/1.dfef1285.chunk.css": "/static/css/1.dfef1285.chunk.css",
   "static/js/1.32bdabd9.chunk.js": "/static/js/1.32bdabd9.chunk.js",
   "static/js/1.32bdabd9.chunk.js.map": "/static/js/1.32bdabd9.chunk.js.map",
@@ -24,11 +24,11 @@
   "static/media/pk.png": "/static/media/pk.c94e43e3.png",
   "static/media/5.jpeg": "/static/media/5.6e846951.jpeg",
   "static/media/6.jpeg": "/static/media/6.47789d67.jpeg",
-  "static/media/index.css": "/static/media/Sarabun-Regular.49d082d0.ttf",
+  "static/media/index.css": "/static/media/ChakraPetch-Regular.f69fdd68.ttf",
   "static/media/background.png": "/static/media/background.81b5837e.png",
-  "static/css/main.348ca6a0.chunk.css.map": "/static/css/main.348ca6a0.chunk.css.map",
   "static/css/1.dfef1285.chunk.css.map": "/static/css/1.dfef1285.chunk.css.map",
+  "static/css/main.348ca6a0.chunk.css.map": "/static/css/main.348ca6a0.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.559f7dff3f657c1ff7a9a56e04f7ba4c.js": "/precache-manifest.559f7dff3f657c1ff7a9a56e04f7ba4c.js",
+  "precache-manifest.8a451d77d54da5709d052bee53486bee.js": "/precache-manifest.8a451d77d54da5709d052bee53486bee.js",
   "service-worker.js": "/service-worker.js"
 }
