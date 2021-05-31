@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.348ca6a0.chunk.css",
-  "main.js": "/static/js/main.d1f01a71.chunk.js",
-  "main.js.map": "/static/js/main.d1f01a71.chunk.js.map",
+  "main.js": "/static/js/main.40641549.chunk.js",
+  "main.js.map": "/static/js/main.40641549.chunk.js.map",
   "static/css/1.dfef1285.chunk.css": "/static/css/1.dfef1285.chunk.css",
   "static/js/1.32bdabd9.chunk.js": "/static/js/1.32bdabd9.chunk.js",
   "static/js/1.32bdabd9.chunk.js.map": "/static/js/1.32bdabd9.chunk.js.map",
@@ -26,9 +26,9 @@
   "static/media/6.jpeg": "/static/media/6.47789d67.jpeg",
   "static/media/index.css": "/static/media/Sarabun-Regular.49d082d0.ttf",
   "static/media/background.png": "/static/media/background.81b5837e.png",
-  "static/css/1.dfef1285.chunk.css.map": "/static/css/1.dfef1285.chunk.css.map",
   "static/css/main.348ca6a0.chunk.css.map": "/static/css/main.348ca6a0.chunk.css.map",
+  "static/css/1.dfef1285.chunk.css.map": "/static/css/1.dfef1285.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f750452c3ff4e5c6fc4dd0d35ef67633.js": "/precache-manifest.f750452c3ff4e5c6fc4dd0d35ef67633.js",
+  "precache-manifest.559f7dff3f657c1ff7a9a56e04f7ba4c.js": "/precache-manifest.559f7dff3f657c1ff7a9a56e04f7ba4c.js",
   "service-worker.js": "/service-worker.js"
 }
