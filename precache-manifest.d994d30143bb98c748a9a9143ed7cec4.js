@@ -88,16 +88,16 @@ self.__precacheManifest = [
     "url": "/static/media/6.47789d67.jpeg"
   },
   {
-    "revision": "2d36b1a925432bae7f3c53a340868c6e",
-    "url": "/static/media/Lato-Regular.2d36b1a9.ttf"
+    "revision": "a82c4c3bfe6cd8a9d57597071772d0c7",
+    "url": "/static/media/Kanit-Regular.a82c4c3b.ttf"
   },
   {
     "revision": "9bec958d1bdbaf4f03bdf23557b4122f",
     "url": "/static/media/K2D-Regular.9bec958d.ttf"
   },
   {
-    "revision": "a82c4c3bfe6cd8a9d57597071772d0c7",
-    "url": "/static/media/Kanit-Regular.a82c4c3b.ttf"
+    "revision": "49d082d0164cdf471f5e00b1fddb89f9",
+    "url": "/static/media/Sarabun-Regular.49d082d0.ttf"
   },
   {
     "revision": "16b4ce72cf30da14d83d5e3981d3113c",
@@ -108,8 +108,8 @@ self.__precacheManifest = [
     "url": "/static/media/ChakraPetch-Regular.f69fdd68.ttf"
   },
   {
-    "revision": "49d082d0164cdf471f5e00b1fddb89f9",
-    "url": "/static/media/Sarabun-Regular.49d082d0.ttf"
+    "revision": "2d36b1a925432bae7f3c53a340868c6e",
+    "url": "/static/media/Lato-Regular.2d36b1a9.ttf"
   },
   {
     "revision": "81b5837e530ab2ad3dfe555368f77336",
