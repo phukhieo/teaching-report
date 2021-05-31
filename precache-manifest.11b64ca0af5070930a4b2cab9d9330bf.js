@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "db6777eaa2b19030a6ee",
+    "revision": "da6eaeb020eaabc093a2",
     "url": "/static/css/main.348ca6a0.chunk.css"
   },
   {
-    "revision": "db6777eaa2b19030a6ee",
-    "url": "/static/js/main.db6777ea.chunk.js"
+    "revision": "da6eaeb020eaabc093a2",
+    "url": "/static/js/main.da6eaeb0.chunk.js"
   },
   {
     "revision": "32bdabd93356632b821b",
@@ -88,6 +88,18 @@ self.__precacheManifest = [
     "url": "/static/media/6.47789d67.jpeg"
   },
   {
+    "revision": "2d36b1a925432bae7f3c53a340868c6e",
+    "url": "/static/media/Lato-Regular.2d36b1a9.ttf"
+  },
+  {
+    "revision": "f69fdd6858deaa1e307594ad974d3979",
+    "url": "/static/media/ChakraPetch-Regular.f69fdd68.ttf"
+  },
+  {
+    "revision": "49d082d0164cdf471f5e00b1fddb89f9",
+    "url": "/static/media/Sarabun-Regular.49d082d0.ttf"
+  },
+  {
     "revision": "a82c4c3bfe6cd8a9d57597071772d0c7",
     "url": "/static/media/Kanit-Regular.a82c4c3b.ttf"
   },
@@ -96,27 +108,15 @@ self.__precacheManifest = [
     "url": "/static/media/K2D-Regular.9bec958d.ttf"
   },
   {
-    "revision": "49d082d0164cdf471f5e00b1fddb89f9",
-    "url": "/static/media/Sarabun-Regular.49d082d0.ttf"
-  },
-  {
     "revision": "16b4ce72cf30da14d83d5e3981d3113c",
     "url": "/static/media/Prompt-Regular.16b4ce72.ttf"
-  },
-  {
-    "revision": "f69fdd6858deaa1e307594ad974d3979",
-    "url": "/static/media/ChakraPetch-Regular.f69fdd68.ttf"
-  },
-  {
-    "revision": "2d36b1a925432bae7f3c53a340868c6e",
-    "url": "/static/media/Lato-Regular.2d36b1a9.ttf"
   },
   {
     "revision": "81b5837e530ab2ad3dfe555368f77336",
     "url": "/static/media/background.81b5837e.png"
   },
   {
-    "revision": "bcdcd2605734b1d8758d7aaffad63a72",
+    "revision": "fcdce74298b4a1b0474b200606b7c848",
     "url": "/index.html"
   }
 ];
